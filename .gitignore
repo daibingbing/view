@@ -1,2 +1,6 @@
 # 插件 / VS Code 扩展二进制不纳入 git（避免超过 GitHub 100MB 硬上限）
 plugin/*.vsix
+# 超 100MB 的插件包与临时解压目录（不纳入 git）
+ms-azuretools.vscode-containers-2.4.5.zip
+ms-azuretools.vscode-containers-2.4.5/
+_cmptmp/
