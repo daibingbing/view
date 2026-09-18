@@ -1,0 +1,2 @@
+# 插件 / VS Code 扩展二进制不纳入 git（避免超过 GitHub 100MB 硬上限）
+plugin/*.vsix
